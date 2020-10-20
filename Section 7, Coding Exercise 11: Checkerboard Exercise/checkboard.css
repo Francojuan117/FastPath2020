@@ -1,0 +1,7 @@
+/* WRITE YOUR CODE IN HERE!!!!  */
+div:nth-child(2n){
+    background: black;
+}
+div{
+    background: red;
+}
